@@ -17,8 +17,6 @@ int count=0;
 #define ECHO A0    //ECHO 핀 설정 (초음파 받는 핀)
 
 
-
-//-------------------------------------
 void setup() 
 {
   boolean speed_set;
@@ -50,20 +48,20 @@ void setup()
   mySerial.begin(9600);           //  블루투스 시리얼  통신 속도   
           
 }
-//-------------------------------------
 
-//-------------------------------------
+
+
 void loop() {
     byte data;
     long echo_duration, distance;
+
     
-    //--------------------------------
     if (mySerial.available()) {       
       data = mySerial.read();    // 블루투스 데이터 받기 
       //Serial.write(data);        // 블루투스측 내용을 시리얼모니터에 출력
     }
- //-----------------------------------
-         
+
+
        digitalWrite(2,HIGH);  // led back 
        //delay(300);
 
