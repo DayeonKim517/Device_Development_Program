@@ -151,7 +151,6 @@ void loop() {
        }
        
 }    // loop end 
-//-------------------------------------
 
 void right_forward(int pwm) {
       analogWrite(5, 0);                
