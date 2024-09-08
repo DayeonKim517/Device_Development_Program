@@ -153,42 +153,33 @@ void loop() {
 }    // loop end 
 //-------------------------------------
 
-
-
-//-----------------------------------
 void right_forward(int pwm) {
       analogWrite(5, 0);                
       analogWrite(6, pwm); 
       delay(10);
 }
-//-----------------------------------
 void left_forward(int pwm) {      
       analogWrite(9, 0);                
       analogWrite(10, pwm);       
       delay(10);  
 }
-//-----------------------------------
 void right_backward(int pwm) {
       analogWrite(5, pwm);                
       analogWrite(6, 0); 
       delay(10);
 }
-//-----------------------------------
 void left_backward(int pwm) {      
       analogWrite(9, pwm);                
       analogWrite(10, 0);       
       delay(10);  
 }
-//-----------------------------------
 void right_stop() {
       analogWrite(5, 0);                
       analogWrite(6, 0); 
       delay(10);
 }
-//-----------------------------------
 void left_stop() {      
       analogWrite(9, 0);                
       analogWrite(10, 0);       
       delay(10);  
 }
-//--------------------------------------
