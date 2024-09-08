@@ -1,9 +1,9 @@
 ## RC_CAR_Practice
-                                                                                                                                                                                                                                              ### // 2023 RC CAR 제어 
-// 블루투스 통신 + 안드로이드 스마트폰 
-// DAEJIN University 
-// speed  =  64 96 128 160 192 255 
-// ultrasonic distance 
+                                                                                                                                                                                                                                              ### ####// 2023 RC CAR 제어 
+####// 블루투스 통신 + 안드로이드 스마트폰 
+####// DAEJIN University 
+####// speed  =  64 96 128 160 192 255 
+####// ultrasonic distance 
  
  
 #include <SoftwareSerial.h>        //시리얼통신 라이브러리 호출 
