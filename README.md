@@ -3,7 +3,7 @@
 ### 아두이노 및 RC카 프로그래밍 기반 이동장치 개발
 
 ### 활동기간
-2023. 11. 20 ~ 2023. 12. 22
+
 
 ### 교육 내용
 - 안드로이드 스마트폰을 이용하여 구글 플레이에서 앱을 다운로드하여 RC카를 조종한다.
@@ -15,4 +15,4 @@
 
 
 ### 수료증
-[대진대학교 비교과 프로그램 이수 증명서.pdf](https://github.com/user-attachments/files/16959810/default.pdf)
+![대진대학교 비교과 프로그램 이수 증명서 RC카 ](https://github.com/user-attachments/assets/2833dc48-d0ff-4163-8620-844ff47cfd60)
