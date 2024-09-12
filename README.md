@@ -14,5 +14,5 @@
 ![RC car practice](https://github.com/user-attachments/assets/e1cac0f1-3777-4d52-95f8-4738a59b888e)
 
 
-### 💡이수증
+### 💡 이수증
 ### ![대진대학교 비교과 프로그램 이수 증명서 RC카 ](https://github.com/user-attachments/assets/2833dc48-d0ff-4163-8620-844ff47cfd60)
